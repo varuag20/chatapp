@@ -49,3 +49,9 @@ npm start
 ```
 
 Done! Now open localhost:3000 in your browser.
+
+###My Details:-
+Name:- Gaurav Sharma
+University:- IIT Roorkee
+Department:- Chemical Engineering
+
